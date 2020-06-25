@@ -15,7 +15,7 @@
     },
     "autoload": {
         "psr-4": {
-            "jshoter\\ProviderSocialite\\weixin": "weixin/"
+            "jshoter\\ProviderSocialite\\weixin\\": "weixin/"
         }
     }
 }
