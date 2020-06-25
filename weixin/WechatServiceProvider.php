@@ -1,6 +1,6 @@
 <?php
 
-namespace jshoter\Providers\Socialite;
+namespace jshoter\ProvidersSocialite\weixin;
 
 use Illuminate\Support\ServiceProvider;
 
