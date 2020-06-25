@@ -1,5 +1,5 @@
 {
-    "name": "jshoter/ProviderSocialite",
+    "name": "jshoter/SocialiteProvider",
     "description": "Weixin OAuth2 Provider for Laravel Socialite",
     "type": "project",
     "license": "MIT",
@@ -15,7 +15,7 @@
     },
     "autoload": {
         "psr-4": {
-            "jshoter\\ProviderSocialite\\weixin\\": "weixin/"
+            "jshoter\\SocialiteProvider\\weixin\\": "weixin/"
         }
     }
 }

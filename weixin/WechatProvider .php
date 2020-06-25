@@ -1,6 +1,6 @@
 <?php
 
-namespace jshoter\ProvidersSocialite\weixin;
+namespace jshoter\SocialiteProvider\weixin;
 
 use Laravel\Socialite\Two\AbstractProvider;
 use Laravel\Socialite\Contracts\Provider as ProviderInterface;
