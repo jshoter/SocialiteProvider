@@ -1,5 +1,5 @@
 {
-    "name": "jshoter/socialiteproviders/weixin",
+    "name": "jshoter/socialiteproviders",
     "description": "Weixin OAuth2 Provider for Laravel Socialite",
     "license": "MIT",
     "authors": [{
