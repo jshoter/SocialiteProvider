@@ -1,18 +1,14 @@
 {
     "name": "jshoter/socialiteproviders",
     "description": "Weixin OAuth2 Provider for Laravel Socialite",
+    "type": "project",
     "license": "MIT",
-    "authors": [{
-        "name": "lzq",
-        "email": "408353018@qq.com"
-    }],
-    "require": {
-        "php": "^7.2.5",
-        "laravel/socialite": "^4.4"
-    },
-    "autoload": {
-        "psr-4": {
-            "SocialiteProviders\\Weixin\\": ""
+    "authors": [
+        {
+            "name": "jshoter",
+            "email": "408353018@qq.com"
         }
-    }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
 }
