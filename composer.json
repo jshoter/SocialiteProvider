@@ -10,5 +10,12 @@
         }
     ],
     "minimum-stability": "dev",
-    "require": {}
+    "require": {
+        "laravel/socialite":"^4.4"
+    },
+    "autoload": {
+        "psr-4": {
+            "jshoter\\Provider\\Socialite\\": "socialiteproviders/weixin"
+        }
+    },
 }
